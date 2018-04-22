@@ -1,0 +1,10 @@
+C:\Users\BERAT\Documents\Visual Studio 2017\Projects\At Oyunu (G)\At Oyunu (G)\bin\Debug\At Oyunu (G).exe.config
+C:\Users\BERAT\Documents\Visual Studio 2017\Projects\At Oyunu (G)\At Oyunu (G)\bin\Debug\At Oyunu (G).exe
+C:\Users\BERAT\Documents\Visual Studio 2017\Projects\At Oyunu (G)\At Oyunu (G)\bin\Debug\At Oyunu (G).pdb
+C:\Users\BERAT\Documents\Visual Studio 2017\Projects\At Oyunu (G)\At Oyunu (G)\obj\Debug\At Oyunu (G).csprojResolveAssemblyReference.cache
+C:\Users\BERAT\Documents\Visual Studio 2017\Projects\At Oyunu (G)\At Oyunu (G)\obj\Debug\At_Oyunu__G_.Form1.resources
+C:\Users\BERAT\Documents\Visual Studio 2017\Projects\At Oyunu (G)\At Oyunu (G)\obj\Debug\At_Oyunu__G_.Properties.Resources.resources
+C:\Users\BERAT\Documents\Visual Studio 2017\Projects\At Oyunu (G)\At Oyunu (G)\obj\Debug\At Oyunu (G).csproj.GenerateResource.Cache
+C:\Users\BERAT\Documents\Visual Studio 2017\Projects\At Oyunu (G)\At Oyunu (G)\obj\Debug\At Oyunu (G).csproj.CoreCompileInputs.cache
+C:\Users\BERAT\Documents\Visual Studio 2017\Projects\At Oyunu (G)\At Oyunu (G)\obj\Debug\At Oyunu (G).exe
+C:\Users\BERAT\Documents\Visual Studio 2017\Projects\At Oyunu (G)\At Oyunu (G)\obj\Debug\At Oyunu (G).pdb
